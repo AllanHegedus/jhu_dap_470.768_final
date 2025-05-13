@@ -8,3 +8,5 @@ In this repo, you will find the following documents:
 4. hegedus_final_project_470.768.qmd = the text file with all the code showing.
 5. hegedus_final_project_470.768.html = the html version without the code, just the outputs
 6. hegedus_final_project_470.768.pdf = the pdf version without the code, just the outputs
+7. SCDB_2024_01_caseCentered_LegalProvision.xlsx = the original data file
+8. scotus_data_clean.xlsx = the data file featuring clean variables
