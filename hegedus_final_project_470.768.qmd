@@ -208,5 +208,5 @@ Finally, there are imputations made in our variables of interest that are worth 
 
 In this analysis, we found that the Supreme Court tended to have more agreements overall despite the median affirmative vote staying consistent over each chief justice. We found that three main issues the Court consistently deals with in the modern era are Criminal Procedure, Civil Rights, and Economic Activity, and that these issues tend to have conservative findings (though, with the exception of criminal procedure, only marginally). Finally, we also find that many cases will end up going down on remand, which is essential to prepare a client for.
 
-Link to GitHub repo: 
+Link to GitHub repo: https://github.com/AllanHegedus/jhu_dap_470.768_final.git
 
